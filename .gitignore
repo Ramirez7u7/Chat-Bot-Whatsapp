@@ -2,3 +2,4 @@ node_modules
 db.js
 queue.class.log
 core.class.log
+.gitignore
